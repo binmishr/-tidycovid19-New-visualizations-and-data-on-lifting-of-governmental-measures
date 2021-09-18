@@ -18,3 +18,5 @@ Stripe displays (is there a more official name? I borrowed this term from the we
 
 library(tidyverse)
 library(tidycovid19)
+
+Stripes Display : https://en.wikipedia.org/wiki/Warming_stripes
